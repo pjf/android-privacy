@@ -1,0 +1,18 @@
+#!/usr/bin/pinpoint
+
+[font=Sans 200px]
+[white][text-color=black]
+[shading-opacity=0.0]
+[text-align=center]
+
+--
+@include <introduction.pin>
+@include <app-ops.pin>
+@include <privacy-guard.pin>
+@include <afwall.pin>
+@include <xprivacy.pin>
+
+# TODO:
+# Apps giving data to other apps to send
+# (bypasses firewalls, etc)
+
