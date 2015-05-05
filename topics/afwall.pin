@@ -1,16 +1,14 @@
-Another way to
-retain privacy
+Complimentary
+firewall
 --
-(block internet access)
---
-Some apps should
-have no need for
-internet access
---
-(games)
---
+Lock the
+robber in
+the vault
+-- [images/stopwatch.png]
+
+-- [images/afwall-plus.png][bottom][text-color=white][shading-opacity=0.7]
 AFWall+
-(pic?)
+
 --
 Free and
 Open Source
@@ -21,13 +19,13 @@ own UID
 --
 iptables can
 filter by UID
+-- [images/afwall-plus-interface.jpg]
+
 --
-AFDroid+ supports
-per-network-type
+Per-network-type
 filtering
 --
-Have apps
-that are
+Restrict to
 WiFi-only
 --
 Block apps
@@ -35,4 +33,5 @@ when roaming
 --
 Block all
 network access!
-
+--
+Requires root

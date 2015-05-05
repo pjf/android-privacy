@@ -1,14 +1,60 @@
+Most awesome?
+--
 XPrivacy
 --
-(OMG)
---
-Requires root
---
-Requires Xposed
+Uses the Xposed
 framework
 --
-THE BEST
-THING EVER
+Android apps
+in a nutshell:
+--
+Everything is
+written in Java
+--
+`app_process`
+runs the apps
+--
+Xposed hooks
+`app_process`
+--
+Load code into
+every process
+--
+Including
+system ones!
+--
+Can replace
+any method in
+any class!
+--
+XPrivacy replaces
+*everything* sensitive
+--
+And gives
+*you* the choice!
+-- [images/wizard.png]
+
+-- [images/xprivacy-dialog.png]
+
+-- [images/xprivacy-red-on-demand.png]
+
+--
+Awesome even if
+you block nothing
+-- [images/xprivacy-log.png]
+
+-- [images/xprivacy-permissions.png]
+
+-- [images/xprivacy-legend.png]
+
+-- [images/xprivacy-permissions-expanded.png]
+
+-- [images/xprivacy-fake-data.png]
+
+-- [images/xprivacy-fake-data2.png]
+
+-- [images/xprivacy-whitelist.png]
+
 --
 Android 4:
 Use the installer
@@ -16,15 +62,8 @@ Use the installer
 Android 5:
 Some assembly required
 --
-*Restrict on demand*
+Crowdsourced
+decisions
+(supporter only)
 --
-Internet/Storage blocking
-can cause crashes
-(it returns errors)
---
-Reddish colour: may cause crashes
---
-
-# Crowdvoted privacy
-# CandyCrash *segfaults*
 

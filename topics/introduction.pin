@@ -2,7 +2,6 @@ Android Privacy
 Paul '@pjf' Fenwick
 
 Text/Slides: CC-BY
-(Github link)
 --
 Phones are
 awesome!
@@ -13,37 +12,38 @@ apps!
 You can play
 games!
 --
-There's so much
+There's so many
 to choose from!
 --
 But there's a
 catch...
---
-(Show example permissions
-request list)
---
-Permissions are supposed
-to discourage app developers
-from overstepping their bounds
---
-But they
-don't.
---
-(pic)
+-- [images/facebook-permissions-1.png]
 
-# There's no reason why
-# XYZ should require Q.
+-- [images/facebook-permissions-2.png]
+
+-- [images/facebook-permissions-3.png]
+
+# Facebook does not *need* that
+# information.
+--
+Permissions model
+favours users
+--
+But they're
+all-or-nothing
+
+# "Essential" apps can
+# ransom their users
 --
 Users don't feel they
 have *any choice*
 --
 This sucks.
 --
-Wouldn't it great
-if we could install
-an app...
---
-...but stop it from
-accessing things
-we don't want?
+Not in the
+user's interest
 
+# So what would be?
+--
+Is there
+a better way?

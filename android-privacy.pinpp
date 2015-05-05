@@ -11,6 +11,7 @@
 @include <privacy-guard.pin>
 @include <afwall.pin>
 @include <xprivacy.pin>
+@include <conclusion.pin>
 
 # TODO:
 # Apps giving data to other apps to send

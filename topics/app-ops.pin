@@ -1,9 +1,8 @@
 Android 4.3
+-- [images/jelly-bean.jpg]
+
 --
-(Jelly Bean)
---
-App
-Ops
+App Ops
 --
 Hidden
 Feature
@@ -16,8 +15,8 @@ App Ops
 # not appear in menus
 --
 Super-cool!
---
-(Screenshots)
+-- [images/app-ops.jpg]
+
 --
 Per-permission
 access control
@@ -25,58 +24,40 @@ access control
 Empty Data
 
 # Blocked permissions result in empty data
---
-(lonely)
+-- [images/lonely-robot.jpg]
 
 # No people in address book
---
-(staring at phone)
+# Lonely
+-- [images/staring-at-phone.jpg]
 
 # Nobody ever calls
---
-(no signal??)
+-- [images/faraday-cage.jpg]
 
-# GPS
-# Guess they're inside
+# No signal / GPS
+# Guess they're in a faraday cage
 --
 Apps still
 run
 --
 No access to
 your data
---
-App Ops
-=
-Celebration!
---
-(pic)
+-- [images/fireworks.jpg]
 
 # Hailed by all
 # as the privacy
 # android always
 # neeed!
+-- [images/surprised-cat.jpg][text-color=white][bottom][shading-opacity=0.7]
+Google: Wait, what?
 --
-(pic)
-
-# Google said:
-# Wait, what?
---
-(pic)
-
-# Oh, we didn't
-# mean that to be
-# left in there.
+Released
+"by accident"
 --
 4.4.2
 
 App ops
 removed!
---
-(sadface)
---
-No app-ops privacy
-without root
+-- [images/sad-cat.jpg]
 
-# I'm not going
-# to cover rooting
-# your phone
+--
+Alternatives?
